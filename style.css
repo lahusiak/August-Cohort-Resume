@@ -1,0 +1,78 @@
+
+body {
+    background-image:url('http://img04.deviantart.net/c516/i/2010/243/c/1/cardboard_texture_stock_by_ymntlestock-d2xpf3o.jpg');
+	font-family:'Slabo 27px', serif;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
+
+html {
+        min-width: 1080px;
+    }
+header {
+	position: relative;
+	text-align: left;
+	padding-top:10px;
+	margin-left: 60px;
+}
+
+header h1 {
+	font-size: 35pt;
+	line-height: 1pt;
+}
+
+header h4 {
+	font-size: 15pt;
+	line-height: 1pt;
+	text-indent: 10px;
+}
+
+#contact {
+	margin-top: 50px;
+	font-size: 15pt;
+}
+
+#profile {
+	padding:3px;
+	border-style: solid;
+	border-width: 3px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	border-color: black;
+	position: absolute;
+	top: 30px;
+	right: 20px;
+
+	
+}
+
+.title {
+	float: left;
+}
+
+.date {
+	float: right;
+}
+
+section h2 {
+	border-bottom: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+h2 {
+	margin-left: 60px;
+	font-weight: bold;
+}
+
+h3, p {
+	margin-left: 80px;
+	line-height: .5pt;
+}
+
+ul {
+	margin-left: 100px;
+}
+
+
+
